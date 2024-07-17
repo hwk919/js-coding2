@@ -91,3 +91,7 @@ while (f < 3){
 const hello = function(){
     return hellosummer
 };
+
+const hello = function(){
+    return hellosummer
+};
