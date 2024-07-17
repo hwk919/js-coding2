@@ -87,3 +87,7 @@ while (f < 3){
     console.log('f')
     f++;
 }
+
+const hello = function(){
+    return hellosummer
+};
